@@ -144,8 +144,13 @@ button[disabled=disabled], button:disabled {
 }
 #filtrar-tabela{
 	width:200px;
+<<<<<<< HEAD
 	height: 35px;
 	margin-bottom: 10px;
+=======
+	height:30px;
+	margin:10px 0;
+>>>>>>> 20441b6fb6d0e004448031e3c7b70d209d69e220
 }
 .invisivel{
 	display: none;
